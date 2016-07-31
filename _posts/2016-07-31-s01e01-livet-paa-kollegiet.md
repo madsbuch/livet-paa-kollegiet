@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  Livet på Kollegiet - S01E01
 date:   2016-07-31 19:20:48 +0200
-categories: jekyll update
 
 speaker : Mads Buch
 description: >
@@ -10,4 +9,6 @@ description: >
   børglum kollegiet
 keywords: fun
 link: /s01e01-livet-på-kollegiet.mp3
+podcastLength: "00:57"
+length: 2297145
 ---
